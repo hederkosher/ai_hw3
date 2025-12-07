@@ -1,5 +1,4 @@
 #include "ids.h"
-#include <algorithm>
 #include <iostream>
 
 IDS::IDS(const Maze &maze) : maze_(maze) {
